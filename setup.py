@@ -13,11 +13,11 @@ test_deps = [
 ]
 
 setup(
-	name='nswitcher-server',
+	name='switchremoteplay',
 	version='1.0.0',
 	packages=find_packages(),
 	license='MIT',
-	author="Titimousse, AntoLeGololo",
+	author="Titimousse",
 	author_email='',
 	description="Remote play Nintendo NS without hack.",
 	install_requires=install_requires,
